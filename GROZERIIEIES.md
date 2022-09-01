@@ -2,25 +2,22 @@
 Refill that kylskåp
 
 ## Edible Stuff
-- [] halloumi (chili or basic)
-- [] ägg
-- [] bacon
-- [] skinka
-- [] gurka
-- [] broccolli (fresh?)
-- [] bröd (råg levian)
-- [] hummus
-- [] coke zero
-- [] fat spagetti
-- [] bregott (brynt)
-- [] oatly
-- [] te (grön lr newf)
+- [x] halloumi (chili or basic)
+- [x] ägg
+- [x] bacon
+- [x] skinka
+- [x] gurka
+- [x] broccolli (fresh?)
+- [x] bröd (råg levian)
+- [x] hummus
+- [x] coke zero
+- [x] fat spagetti
+- [x] bregott (brynt)
+- [x] oatly
+- [x] te (grön lr newf)
 
 ## Non-Edible Stuff
-- [] hushållspapper
-- [] tandkräm 
-- [] felix fryspasta
-- [] påse yo
-
-### Env: dev
-- [] ECS Container
+- [x] hushållspapper
+- [x] tandkräm 
+- [x] felix fryspasta
+- [x] påse yo
