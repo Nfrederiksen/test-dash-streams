@@ -21,3 +21,6 @@ Refill that kylskåp
 - [] tandkräm 
 - [] felix fryspasta
 - [] påse yo
+
+### Env: dev
+- [x] ECS Container
