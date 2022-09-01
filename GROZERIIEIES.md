@@ -2,7 +2,7 @@
 Refill that kylskåp
 
 ## Edible Stuff
-- [x] halloumi (chili or basic)
+- [ ] halloumi (chili or basic)
 - [x] ägg
 - [x] bacon
 - [x] skinka
